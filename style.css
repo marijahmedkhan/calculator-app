@@ -1,0 +1,38 @@
+*{
+    background-color:#fd5e3b ;
+    font-family: 'Lobster', cursive;
+}
+.main{
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color:rgba(128, 128, 128, 0.78) ;
+    
+    margin-top: 2px;
+}
+.clearbtn{
+    margin-top: 8px;
+    width: 99%;
+    background-color:greenyellow;
+}
+.clearbtn:hover{
+    width:100%;
+}
+.btn{
+    background-color:grey;
+    width:44px;
+    margin: 1px;
+}
+.halfbtn{
+    background-color: grey;
+    width:44px;
+    margin-left: 1.5px;
+}
+.half{
+    margin-top:1px;
+    width: 44px;
+    margin-left: 52px;
+    background-color: grey;
+}
